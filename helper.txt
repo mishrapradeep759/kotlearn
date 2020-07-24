@@ -1,0 +1,48 @@
+https://kotlinlang.org/docs/reference/returns.html
+https://kotlinlang.org/docs/reference/basic-types.html
+
+string arrays:
+https://stackoverflow.com/questions/44239869/whats-the-kotlin-equivalent-of-javas-string
+
+constructors:
+https://www.youtube.com/watch?v=5YtmN2V9Om4
+
+map:
+https://mkyong.com/kotlin/kotlin-how-to-loop-a-map/
+
+extension function
+infix function
+
+sorting list/arrays
+indexing
+sorting map
+datetime - https://www.ict.social/kotlin/oop/date-and-time-in-kotlin-creating-and-formatting
+try catch - https://kotlinlang.org/docs/reference/exceptions.html
+logging - https://medium.com/@OhadShai/logging-in-kotlin-95a4e76388f2
+user input - https://www.programiz.com/kotlin-programming/input-output
+range - https://kotlinlang.org/docs/reference/ranges.html
+require - https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/require.html
+
+extension function ?
+
+map.getOrPut(k) 
+
+sealed class
+
+request
+file read write operation
+logging
+json
+
+kotlin coroutines
+ketor
+design pattern
+generics
+
+sample web app in ktor
+moshi for json 
+
+
+vararg and varargs
+
+Generics: 
